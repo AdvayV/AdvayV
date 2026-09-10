@@ -1,7 +1,7 @@
 <h1 align="center">Advay Vivek</h1>
 
 <p align="center">
-  <strong>AI/ML Builder | Ex-AI/ML Intern | Full-Stack Developer</strong>
+  <strong>Applied AI Engineer | Agentic Systems, RAG & Intelligent Products</strong>
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/AdvayV?tab=repositories">Explore my projects</a>
+  &nbsp;|&nbsp;  <a href="https://www.linkedin.com/in/advay-v/">LinkedIn</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/AdvayV">GitHub profile</a>
 </p>
