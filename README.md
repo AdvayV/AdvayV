@@ -4,7 +4,7 @@ Computer science undergraduate at VIT Vellore. I build developer tools, applied 
 
 ## Open-source contributions
 
-- Restored column alignment when tagged PDFs omit empty table cells. Added synthetic regression fixtures for document-level and page-level Markdown. [Firecrawl PDF Inspector #679 · open PR](https://github.com/firecrawl/pdf-inspector/pull/679)
+- Restored column alignment when tagged PDFs omit empty table cells. Added synthetic regression fixtures for document-level and page-level Markdown. [Firecrawl PDF Inspector #679 · open PR](https://github.com/firecrawl/pdf-inspector/pull/679) · [Synthetic table-cell regression toolkit](https://github.com/AdvayV/pdf-inspector/blob/portfolio-table-cell-regressions/docs/table-cell-regressions.md)
 - Scoped model request settings to candidate profiles and added regression tests for the judge and report paths. [NPCI IndicBankBench #4 · open PR](https://github.com/npci/IndicBankBench/pull/4)
 
 ## Selected projects
