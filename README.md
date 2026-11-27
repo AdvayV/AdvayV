@@ -1,71 +1,31 @@
-<h1 align="center">Advay Vivek</h1>
+![Advay Vivek — Developer tools, applied AI, and systems](assets/profile-banner.jpg)
 
-<p align="center">
-  <strong>Applied AI Engineer | Agentic Systems, RAG & Intelligent Products</strong>
-</p>
+[Open source](#open-source) · [Selected projects](#selected-projects) · [Languages and tools](#languages-and-tools) · [LinkedIn](https://www.linkedin.com/in/advay-v/)
 
-<p align="center">
-  I build intelligent products that connect machine learning and LLMs with real workflows - from forecasting and retrieval to agentic decision-making, explainable recommendations, and guarded actions.
-</p>
+I’m a computer science undergraduate at **VIT Vellore**. I like building tools that make it easier to trace what happened, from a shifted column in a PDF to a scheduling decision in a simulator. During my AI engineering internship at **Coforge**, I worked on retrieval and knowledge graphs for a travel assistant.
 
-<p align="center">
-  <a href="https://github.com/AdvayV?tab=repositories">Explore my projects</a>
-  &nbsp;|&nbsp;  <a href="https://www.linkedin.com/in/advay-v/">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/AdvayV">GitHub profile</a>
-</p>
+## Open source
 
----
+- **Firecrawl PDF Inspector.** I fixed how the Rust parser handles missing empty cells in tagged PDF tables and added a synthetic regression fixture. [Open PR #679](https://github.com/firecrawl/pdf-inspector/pull/679) · [Table-cell checker](https://github.com/AdvayV/pdf-inspector/blob/portfolio-table-cell-regressions/docs/table-cell-regressions.md)
+- **NPCI IndicBankBench.** I isolated candidate-model settings from judge and report requests and added regression tests. [Open PR #4](https://github.com/npci/IndicBankBench/pull/4)
 
-### About me
+## Selected projects
 
-My work sits at the intersection of **applied AI, data, and product engineering**. I enjoy taking an idea beyond the notebook: designing the decision logic, building the APIs and interface, connecting models to data and tools, and making the result understandable to the person using it.
+| Project | What it does | Where to start |
+| --- | --- | --- |
+| **[CodeStrata](https://github.com/AdvayV/AgenticIntelligence)** | Explores what changed in a codebase over time by indexing its Git history. | [Try the local demo](https://github.com/AdvayV/AgenticIntelligence#try-the-demo) |
+| **[LoopOS](https://github.com/AdvayV/LoopOS)** | Makes task scheduling visible through an interactive simulator and a local replay harness. | [Try Crisis Lab](https://advayv.github.io/LoopOS/) |
+| **[FinLens](https://github.com/AdvayV/FinLens-on-Reactjs)** | Turns transaction CSVs into spending insights and supports server-calculated loan simulations. | [Dashboard preview](https://github.com/AdvayV/FinLens-on-Reactjs/blob/main/docs/images/dashboard.jpg) |
+| **[Serverless Cold-Start Simulator](https://github.com/AdvayV/ServerLess-Arch)** | Compares serverless scheduling and caching policies against seeded workloads. | [540-run study](https://github.com/AdvayV/ServerLess-Arch/blob/main/experiments/REASSESSMENT_STUDY.md) |
+| **[CodeMood](https://github.com/AdvayV/Emotion_Detection)** | Compares emotion recognition approaches for Hindi–English and English–French code-mixed text. | [Run the local demo](https://github.com/AdvayV/Emotion_Detection/blob/main/GET_STARTED.md) |
 
-With previous experience as an **AI/ML intern**, I am now concentrating on:
+## Languages and tools
 
-- **Agentic AI systems** - tool use, multi-agent workflows, MCP integrations, approval gates, audit trails, and reliable fallback paths.
-- **LLMs and retrieval** - RAG, GraphRAG, vector search, context-aware assistants, and structured reasoning over domain knowledge.
-- **Forecasting and applied ML** - time-series prediction, regression, Monte Carlo simulation, anomaly detection, and decision-support analytics.
-- **Full-stack AI products** - turning models into usable applications with Python/FastAPI and React/Next.js, backed by practical APIs and databases.
-
-> I am especially interested in AI that can explain its reasoning, respect real-world constraints, and remain useful when an external service fails.
-
-### Selected projects
-
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| **[Commergent](https://github.com/AdvayV/Razorpay-Buildathon)** | An explainable, policy-guarded agentic storefront that models household consumption, compares true landed costs, negotiates bounded discounts, and keeps payment behind explicit human approval. | Next.js, TypeScript, Groq, MCP, Razorpay, HMAC webhooks |
-| **[TravelRoute Intelligence Suite](https://github.com/AdvayV/AI-Travel-Intelligence-Platform)** | A two-part travel intelligence system combining 30-day route-demand forecasting with a GraphRAG-powered agent for policy-aware, weather-aware flight discovery and booking assistance. | Python, FastAPI, React, LangChain, Neo4j, ChromaDB, Chronos-Bolt, Hugging Face |
-| **[FinLens](https://github.com/AdvayV/FinLens-Personal-finance-and-Loan-Eligibility-Simulator)** | A behaviour-aware personal-finance platform with transaction analytics, anomaly and trend insights, a Gemini-powered advisor, and transparent FOIR-based loan eligibility decisions. | Node.js, Express, MongoDB, Gemini, JWT, Chart.js, JavaScript |
-| **[Stock Analysis Dashboard](https://github.com/AdvayV/P-S-Project)** | An interactive market-analysis workspace with next-day regression, Monte Carlo forecasting, anomaly detection, risk metrics, and comparative visual analytics. | Python, Streamlit, scikit-learn, Pandas, NumPy, SciPy, Plotly, yfinance |
-
-### Toolkit
-
-**AI, ML and data**  
-`Python` | `scikit-learn` | `Pandas` | `NumPy` | `SciPy` | `Time-Series Forecasting` | `Monte Carlo Methods` | `Anomaly Detection`
-
-**LLMs and agent systems**  
-`LangChain` | `RAG` | `GraphRAG` | `ChromaDB` | `Neo4j` | `Hugging Face` | `Amazon Chronos-Bolt` | `Groq` | `Google Gemini` | `Model Context Protocol`
-
-**Backend and data layer**  
-`FastAPI` | `Node.js` | `Express.js` | `REST APIs` | `MongoDB` | `Mongoose` | `JWT` | `Webhook Verification`
-
-**Frontend and visualization**  
-`React` | `Next.js` | `TypeScript` | `JavaScript` | `HTML5` | `CSS3` | `Streamlit` | `Plotly` | `Chart.js`
-
-**Workflow and deployment**  
-`Git` | `GitHub` | `Vercel` | `API Integration` | `Environment-based Configuration` | `Graceful Fallback Design`
-
-### How I like to build
-
-```text
-Understand the problem -> model the decision -> build the system -> expose the reasoning -> test the failure paths
-```
-
-I care about more than whether a model produces an answer. I care about where its data came from, which rules shaped the result, what happens when a dependency is unavailable, and when a human should stay in control.
-
----
-
-<p align="center">
-  <i>Currently exploring agentic AI, reliable RAG, forecasting, and full-stack intelligent applications.</i>
-</p>
+| Area | What I’ve worked with |
+| --- | --- |
+| **Project languages** | Python · JavaScript · TypeScript · Rust |
+| **Coursework** | Java · C · C++ |
+| **Frontend** | HTML · CSS · React · Next.js · Vite · Chart.js · D3.js |
+| **Backend and data** | Node.js · Express · FastAPI · Zod · MongoDB · Mongoose · Neo4j |
+| **ML and retrieval** | PyTorch · Hugging Face Transformers · scikit-learn · LangChain · Streamlit |
+| **Testing and delivery** | pytest · Playwright · Docker · GitHub Actions |
