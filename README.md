@@ -18,6 +18,7 @@ I’m a computer science undergraduate at **VIT Vellore**. I like building tools
 | **[FinLens](https://github.com/AdvayV/FinLens-on-Reactjs)** | Turns transaction CSVs into spending insights and supports server-calculated loan simulations. | [Dashboard preview](https://github.com/AdvayV/FinLens-on-Reactjs/blob/main/docs/images/dashboard.jpg) |
 | **[Serverless Cold-Start Simulator](https://github.com/AdvayV/ServerLess-Arch)** | Compares serverless scheduling and caching policies against seeded workloads. | [540-run study](https://github.com/AdvayV/ServerLess-Arch/blob/main/experiments/REASSESSMENT_STUDY.md) |
 | **[CodeMood](https://github.com/AdvayV/Emotion_Detection)** | Compares emotion recognition approaches for Hindi–English and English–French code-mixed text. | [Run the local demo](https://github.com/AdvayV/Emotion_Detection/blob/main/GET_STARTED.md) |
+| **[Commergent](https://github.com/AdvayV/Razorpay-Buildathon)** | Turns household shopping requests into explainable baskets, compares simulated retailer prices, and asks for buyer approval before checkout. | [Demo walkthrough](https://github.com/AdvayV/Razorpay-Buildathon/blob/main/FLOW_OF_EVENTS.md) |
 
 ## Languages and tools
 
